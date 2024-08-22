@@ -70,7 +70,7 @@ Eu quero ser notificado em tempo real sobre o progresso de cada etapa do process
 ### Pré-requisitos
 - Python 3.x
 - Framework BotCity
-- Biblioteca OS
+- Biblioteca OS e Shutil
 - Software de legendagem (CapCut ou outro específico)
 
 ### Instalação
